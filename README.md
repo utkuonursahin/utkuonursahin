@@ -1,43 +1,22 @@
-### Hello everyone, I'm Utku :smile:
+<h1 align="center">Hi 👋, I'm Utku</h1>
+<h3 align="center">Frontend Developer | CS Student</h3>
 
-<iframe src="https://giphy.com/embed/hXDrTueJWAscK3xWQ2" width="400" height="250" frameBorder="0" class="giphy-embed" allowFullScreen align="right"></iframe><a href="https://giphy.com/gifs/Friends-season-9-friends-tv-the-one-with-lottery-hXDrTueJWAscK3xWQ2"></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/theutkusahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="theutkusahin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/utku-onur-sahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utku-onur-sahin" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15469534" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15469534" height="30" width="40" /></a>
+<a href="https://instagram.com/utkuonursahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="utkuonursahin" height="30" width="40" /></a>
+</p>
 
-## Frontend Developer | CS Student
-<br/>
-
-<font>:headphones: Post-rock is how I keep up with `<code/>` </font>
-
-### Reach out to me
-
-[<img width="30" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" align="left"/>][linkedin]
-[<img width="30" src="https://unpkg.com/simple-icons@v5/icons/twitter.svg" align="left"/>][twitter]
-[<img width="30" src="https://unpkg.com/simple-icons@v5/icons/stackoverflow.svg" align="left"/>][stackoverflow]
-
-<br/>
-
-### Tech I use
-<img width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-
-<img width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-
-<img width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-
-<img width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-
-<img width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
-
-<img width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
-
-<img width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-
-<br/>
-
-<details>
-    <summary>:bulb: Most Used Languages<summary/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkuonursahin&layout=compact">
-<details/>
-
-
-[linkedin]: https://tr.linkedin.com/in/utku-onur-sahin
-[twitter]: https://twitter.com/theUtkuSahin
-[stackoverflow]: https://stackoverflow.com/users/15469534/utkuonursahin
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkuonursahin&show_icons=true&locale=en&layout=compact" alt="utkuonursahin" /></p>
