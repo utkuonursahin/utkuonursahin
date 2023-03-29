@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Utku
 **Fullstack Web Developer | CS Student**
 
-*I'm a fullstack web developer who loves and writes both frontend and backend code. I use JavaScript (and other friends a.k.a MERN stack) mainly. I'm a CS sophomore at Başkent University/Ankara right now*
+*I'm a fullstack web developer who loves and writes both frontend and backend code. I use JavaScript (and other friends a.k.a MERN stack) mainly. Also I'M studying Computer Science at Başkent University / Ankara.*
 
 ## 🌎 Connect with me
 <a href="https://twitter.com/utkuonursahinn" target="blank">
