@@ -1,10 +1,7 @@
 # Hi there 👋, I'm Utku
-**Fullstack Web Developer | CS Student**
+## **Fullstack Web Developer | CS Student**
 
-*I'm a fullstack web developer who loves and writes both frontend and backend code. I use JavaScript (and other friends a.k.a MERN stack) mainly. Also I'm studying Computer Science at Başkent University / Ankara.*
-
-## 📫 How to reach me
-<a href="mailto:sahinutkuonur@gmail.com"><img src="https://img.shields.io/badge/Mail_Me-1a2036?style=for-the-badge&logo=gmail"></a>
+I'm a fullstack web developer who loves and writes both frontend and backend code. I use JavaScript (and other friends a.k.a MERN stack) mainly. Also I'm studying Computer Science at Başkent University / Ankara.
 
 ## 🌎 Connect with me
 <a href="https://twitter.com/utkuonursahinn" target="blank">
