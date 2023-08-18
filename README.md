@@ -15,10 +15,10 @@ I'm a fullstack web developer who loves and writes both frontend and backend cod
 </a>
 
 ## 🛠 Languages
-[![Fullstack](https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,java,spring,tailwind,sass,mongo,mysql&perline=6)](https://skillicons.dev)
+[![Fullstack](https://skillicons.dev/icons?i=js,ts,angular,react,next,tailwind,sass,nodejs,express,java,spring,mongo,mysql&perline=7)](https://skillicons.dev)
 
 ## ⚙ Developer Environments
-[![Developer Environments](https://skillicons.dev/icons?i=git,vscode,idea,figma,aws,gcp,vercel,netlify,postman&perline=6)](https://skillicons.dev)
+[![Developer Environments](https://skillicons.dev/icons?i=git,postman,vscode,idea,figma,aws,gcp,vercel,netlify&perline=5)](https://skillicons.dev)
 
 ## 📈 GitHub Stats
 ![Utku's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=utkuonursahin&show_icons=true&theme=react)
