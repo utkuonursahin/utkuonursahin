@@ -1,7 +1,11 @@
 # Hi there 👋, I'm Utku
 ## **Fullstack Web Developer | CS Student**
 
-I'm a fullstack web developer who loves and writes both frontend and backend code. I use JavaScript (and other friends a.k.a MERN stack) mainly. Also I'm studying Computer Science at Başkent University / Ankara.
+• Enthusiastic web developer skilled in both front-end and back-end development.
+
+• Over two years of experience in software technologies like React, Next, Angular, Node, Express, Spring, Tailwind, MongoDB.
+
+• CS junior at Başkent University.
 
 ## 🌎 Connect with me
 <a href="https://twitter.com/utkuonursahinn" target="blank">
@@ -15,7 +19,7 @@ I'm a fullstack web developer who loves and writes both frontend and backend cod
 </a>
 
 ## 🛠 Languages
-[![Fullstack](https://skillicons.dev/icons?i=js,ts,react,next,angular,tailwind,sass,nodejs,express,java,spring,mongo,mysql&perline=7)](https://skillicons.dev)
+[![Fullstack](https://skillicons.dev/icons?i=js,ts,react,next,angular,tailwind,sass,nodejs,express,java,spring,mongo&perline=7)](https://skillicons.dev)
 
 ## ⚙ Developer Environments
 [![Developer Environments](https://skillicons.dev/icons?i=git,postman,vscode,idea,figma,aws,gcp,vercel,netlify&perline=5)](https://skillicons.dev)
