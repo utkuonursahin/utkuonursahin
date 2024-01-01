@@ -5,6 +5,8 @@
 
 • Over two years of experience in software technologies like React, Next, Angular, Node, Express, Spring, Tailwind, MongoDB.
 
+• With a solid understanding of both frontend and backend application principles, flexible to work with various technologies.
+
 • CS junior at Başkent University.
 
 ## 🌎 Connect with me
