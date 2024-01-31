@@ -3,8 +3,6 @@
 
 • Enthusiastic web developer skilled in both front-end and back-end development.
 
-• Over two years of experience in software technologies like React, Next, Angular, Node, Express, Spring, Tailwind, MongoDB.
-
 • With a solid understanding of both frontend and backend application principles, flexible to work with various technologies.
 
 • CS junior at Başkent University.
@@ -21,7 +19,7 @@
 </a>
 
 ## 🛠 Languages
-[![Fullstack](https://skillicons.dev/icons?i=js,ts,react,next,angular,tailwind,sass,nodejs,express,java,spring,mongo&perline=7)](https://skillicons.dev)
+[![Fullstack](https://skillicons.dev/icons?i=js,ts,react,next,angular,svelte,tailwind,sass,nodejs,express,java,spring,mongo&perline=8)](https://skillicons.dev)
 
 ## ⚙ Developer Environments
 [![Developer Environments](https://skillicons.dev/icons?i=git,postman,vscode,idea,figma,aws,gcp,vercel,netlify&perline=5)](https://skillicons.dev)
