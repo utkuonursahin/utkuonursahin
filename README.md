@@ -25,7 +25,7 @@
 [![Developer Environments](https://skillicons.dev/icons?i=git,postman,vscode,idea,webstorm,figma,aws,gcp,vercel,netlify&perline=5)](https://skillicons.dev)
 
 ## 📈 GitHub Stats
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; gap: 5px;">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=utkuonursahin&show_icons=true&theme=dark&count_private=true&rank_icon=github" alt="utkuonursahin"/>
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkuonursahin&layout=compact&theme=dark" alt="utkuonursahin"/> 
 </div>
