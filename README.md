@@ -8,6 +8,7 @@
 • CS senior at Başkent University.
 
 ## 🌎 Connect with me
+<div style="display: flex; gap: 10px">
 <a href="https://mail.google.com/mail/?view=cm&to=sahinutkuonur@gmail.com" target="blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="utkuonursahin"/>
 </a>
@@ -17,12 +18,13 @@
 <a href="https://stackoverflow.com/users/15469534" target="blank">
     <img src="https://skillicons.dev/icons?i=stackoverflow" alt="utkuonursahin"/>
 </a>
+</div>
 
 ## 🛠 Languages and Frameworks
-[![Fullstack](https://skillicons.dev/icons?i=js,ts,react,next,angular,tailwind,sass,java,spring,nodejs,express,postgres,mongo&perline=5)](https://skillicons.dev)
+[![Fullstack](https://skillicons.dev/icons?i=java,spring,postgres,mongo,nodejs,js,ts,react,next,angular,tailwind,sass&perline=6)](https://skillicons.dev)
 
 ## ⚙ Developer Environments
-[![Developer Environments](https://skillicons.dev/icons?i=git,postman,vscode,idea,webstorm,figma,aws,gcp,vercel,netlify&perline=5)](https://skillicons.dev)
+[![Developer Environments](https://skillicons.dev/icons?i=git,docker,postman,idea,webstorm,figma,aws,gcp,vercel,netlify&perline=5)](https://skillicons.dev)
 
 ## 📈 GitHub Stats
 <div style="display: flex;">
