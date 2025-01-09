@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Utku
-## **Fullstack Web Developer | CS Student**
+## **Fullstack Software Engineer | Senior CS Student**
 
-• Enthusiastic web developer skilled in both front-end and back-end development.
+• Enthusiastic software developer skilled in both front-end and back-end development.
 
 • With a solid understanding of both frontend and backend application principles, flexible to work with various technologies.
 
