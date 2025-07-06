@@ -1,7 +1,7 @@
 # Utku Onur Şahin
 ## **Fullstack Software Engineer**
 
-• Enthusiastic software developer skilled in both backend and frontend development.
+• Enthusiastic software engineer skilled in both backend and frontend development.
 
 • With a solid understanding of both frontend and backend application principles, flexible to work with various technologies.
 
