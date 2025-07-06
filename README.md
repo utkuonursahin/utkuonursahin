@@ -1,11 +1,11 @@
-# Hi there 👋, I'm Utku
-## **Fullstack Software Engineer | Senior CS Student**
+# Utku Onur Şahin
+## **Fullstack Software Engineer**
 
-• Enthusiastic software developer skilled in both front-end and back-end development.
+• Enthusiastic software developer skilled in both backend and frontend development.
 
 • With a solid understanding of both frontend and backend application principles, flexible to work with various technologies.
 
-• CS senior at Başkent University.
+• B.Sc. in Computer Engineering, Başkent University, 2025.
 
 ## 🌎 Connect with me
 <div style="display: flex; gap: 10px">
@@ -14,9 +14,6 @@
 </a>
 <a href="https://linkedin.com/in/utku-onur-sahin" target="blank">
      <img src="https://skillicons.dev/icons?i=linkedin" alt="utkuonursahin"/>
-</a>
-<a href="https://stackoverflow.com/users/15469534" target="blank">
-    <img src="https://skillicons.dev/icons?i=stackoverflow" alt="utkuonursahin"/>
 </a>
 </div>
 
